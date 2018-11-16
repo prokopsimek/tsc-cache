@@ -1,0 +1,23 @@
+{
+  "name": "tsc-cache",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prokopsimek/tsc-cache.git"
+  },
+  "author": "Prokop Simek, Adéla Homolová",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prokopsimek/tsc-cache/issues"
+  },
+  "homepage": "https://github.com/prokopsimek/tsc-cache#readme",
+  "devDependencies": {
+    "typescript": "^3.1.6",
+    "yarn": "^1.12.3"
+  }
+}
